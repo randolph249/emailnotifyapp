@@ -21,6 +21,7 @@
   "homepage": "https://github.com/randolph249/emailnotifyapp#readme",
   "dependencies": {
     "later": "^1.1.6",
-    "timing": "^0.1.3"
+    "timing": "^0.1.3",
+    "yi-task": "^1.0.2"
   }
 }
